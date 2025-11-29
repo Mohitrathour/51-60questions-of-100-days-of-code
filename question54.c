@@ -1,0 +1,38 @@
+#include<stdio.h>
+int main()
+{
+    int i;
+    for(i=1 ; i<=1 ; i++)
+    {
+        printf("*");
+    }
+    printf("\n");
+    printf("\n");
+    for(i=1 ; i<=3 ; i++)
+    {
+        printf("*");
+    }
+    printf("\n");
+    printf("\n");
+    for(i=1 ; i<=5 ; i++)
+    {
+        printf("*");
+    }
+    printf("\n");
+    for(i=1 ; i<=7 ; i++)
+    {
+        printf("*");
+    }
+    printf("\n");
+    for(i=1 ; i<=3 ; i++)
+    {
+        printf("*");
+    }
+    printf("\n");
+    printf("\n");
+    for(i=1 ; i<=1 ; i++)
+    {
+        printf("*");
+    }
+    return 0;
+}
